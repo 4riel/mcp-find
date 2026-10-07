@@ -19,6 +19,6 @@ servers:
   - name: "Invompt"
     github_url: "https://github.com/Invompt/invompt-mcp"
     package_name: "invompt-mcp"
-    description: "Turn AI-host work into invoices you review before send — Continue as guest or OAuth via hosted MCP."
+    description: "Turn AI-host work into invoices you review before send. Guest access or OAuth on the hosted MCP."
     package_type: "npm"
     category: "finance"
